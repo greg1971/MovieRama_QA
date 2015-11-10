@@ -3,7 +3,7 @@ Webdriver java implementation for automatically testing all features of the Movi
 
 Some of the project´s features are:
 
-1. Usage of the Selenium Webdriver Java API wrapped by Junit 4
+1. Usage of the Selenium Webdriver Interface wrapped by Junit 4 and in this project implemented by FirefoxDriver class. In a similar way, the automated tests can be further modified to be implemented by InternetExplorerDriver, OperaDriver, SafariDriver and hence be xecuted with Internet Explorere Opera and Safari respectively
 2. Location of the various WebElements, via absolute and relative XPath expressions
 3. Dynamic processing of the web elements after storing then in java.util.List <Webelement> objects for manipulating the on the fly, later on
 4. Foreward and backwards navigation through all the retrieved web pages
