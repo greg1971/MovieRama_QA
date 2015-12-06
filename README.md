@@ -11,4 +11,4 @@ Some of the project´s features are:
 6. Performance test of the HTTP responses, which should be retrieved in no more than 3 seconds
 7. Positive and negative testing scenarios
 
-<b>Note</b>: Test plan describing the logic that is implemented in the webdriver scripts can be found in PDF format under <u>_"Resources"_</u> folder.
+<b>Note</b>: Test plan describing the logic that is implemented in the webdriver scripts can be found in PDF format under **_"Resources"_** folder.
